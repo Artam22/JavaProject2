@@ -9,6 +9,9 @@ public class Runner {
         System.out.println("kare.cevre() = " + kare.cevre());
         System.out.println("kare.alan() = " + kare.alan());
 
+        Dikdortgen dikdortgen = new Dikdortgen(7,10);
+        System.out.println("dikdortgen.cevre() = " + dikdortgen.cevre());
+        System.out.println("dikdortgen.alan() = " + dikdortgen.alan());
 
     }
 }

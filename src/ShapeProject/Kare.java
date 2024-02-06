@@ -1,29 +1,30 @@
 package ShapeProject;
 
 public class Kare implements IIslemler {
+    // TODO Bu class doldurunuz
 
-    int kKenar;
+    private int kKenar;
 
     public Kare(int kKenar) {
-        this.kKenar = kKenar;
+        setkKenar(kKenar);
     }
 
     @Override
     public double cevre() {
-
-        return kKenar * 4;
+        return this.kKenar * 4;
     }
 
     @Override
     public double alan() {
-
-        return kKenar * kKenar;
+        return this.kKenar * this.kKenar;
     }
-    // TODO Bu class doldurunuz
 
 
+    public int getkKenar() {
+        return kKenar;
+    }
 
-
-
-
+    public void setkKenar(int kKenar) {
+        this.kKenar = kKenar;
+    }
 }

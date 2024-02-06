@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc6995f8-70fb-49fe-98ed-c2e8c5fbad59" name="Changes" comment="Empty V0">
-      <change beforePath="$PROJECT_DIR$/Shape_Project__Task.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShapeProject/IIslem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeProject/IIslemler.java" afterDir="false" />
+    <list default="true" id="cc6995f8-70fb-49fe-98ed-c2e8c5fbad59" name="Changes" comment="Kare done V1">
+      <change beforePath="$PROJECT_DIR$/src/ShapeProject/Dikdortgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeProject/Dikdortgen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ShapeProject/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeProject/Kare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ShapeProject/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeProject/Runner.java" afterDir="false" />
     </list>
@@ -39,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Runner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -91,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707197196308</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Kare done V1">
+      <option name="closed" value="true" />
+      <created>1707198214428</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707198214428</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Empty V0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Empty V0" />
+    <MESSAGE value="Kare done V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kare done V1" />
   </component>
 </project>
