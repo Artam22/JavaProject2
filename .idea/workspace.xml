@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc6995f8-70fb-49fe-98ed-c2e8c5fbad59" name="Changes" comment="Kare done V1">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShapeProject/Daire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeProject/Daire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShapeProject/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeProject/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShapeProject/Ucgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeProject/Ucgen.java" afterDir="false" />
-    </list>
+    <list default="true" id="cc6995f8-70fb-49fe-98ed-c2e8c5fbad59" name="Changes" comment="Final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707198214428</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final">
+      <option name="closed" value="true" />
+      <created>1707207841827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707207841827</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Empty V0" />
     <MESSAGE value="Kare done V1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kare done V1" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
 </project>
