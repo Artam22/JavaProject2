@@ -1,8 +1,13 @@
+package ShapeProject;
+
 public class Runner {
     public static void main(String[] args) {
 
         // TODO Bu class doldurunuz
+        Kare kare = new Kare(5);
 
+        System.out.println("kare.cevre() = " + kare.cevre());
+        System.out.println("kare.alan() = " + kare.alan());
 
 
     }
