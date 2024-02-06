@@ -13,5 +13,15 @@ public class Runner {
         System.out.println("dikdortgen.cevre() = " + dikdortgen.cevre());
         System.out.println("dikdortgen.alan() = " + dikdortgen.alan());
 
+        Daire daire =new Daire(2);
+        System.out.println("Daire.cevre() = " + daire.cevre());
+        System.out.println("Daire.alan() = " + daire.alan());
+
+        Ucgen ucgen =new Ucgen(3,4,5);
+        System.out.println("Ucgen.cevre() = " + ucgen.cevre());
+        System.out.println("Ucgen.alan() = " + ucgen.alan());
+
+
+
     }
 }
